@@ -7,8 +7,8 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <h1 className="underline" text-3xl>
-      Hello Dashaboard
+    <h1 className="underline text-3xl">
+      Hello Dashboard
     </h1>
   )
 }
